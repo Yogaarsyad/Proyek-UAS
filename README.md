@@ -55,3 +55,4 @@ python generate_graph_all.py
 ![bagaian2](https://github.com/user-attachments/assets/1f822b8d-a186-429c-851e-a7a5cbeb5be9)
 
 
+### Link Access Yutube: https://youtu.be/r-Qo6MRZ0nU?si=T59fUd4XpGNlE-lr
