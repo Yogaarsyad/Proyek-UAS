@@ -34,10 +34,6 @@ gcc code.c -o lotka_volterra.exe
 ```bash
 ./lotka_volterra.exe
 ```
-## Graph:
-
-![grafik1](https://github.com/user-attachments/assets/2b266b36-478b-46c3-9e45-3abd17adca9d)
-![grafik2](https://github.com/user-attachments/assets/b0bd1789-3e2c-4e6a-ae88-eba14041ca3c)
 
 ### ====== Run Code .py Program Creat Graph ========
 
@@ -48,6 +44,12 @@ pip install pandas matplotlib
 ```bash
 python generate_graph_all.py
 ```
+
+## Graph:
+
+![grafik1](https://github.com/user-attachments/assets/2b266b36-478b-46c3-9e45-3abd17adca9d)
+![grafik2](https://github.com/user-attachments/assets/b0bd1789-3e2c-4e6a-ae88-eba14041ca3c)
+
 
 ## Output Simulation C Progam:
 ![bagaian1](https://github.com/user-attachments/assets/e33dabb7-f089-4a91-9295-06bda14a91c9)
