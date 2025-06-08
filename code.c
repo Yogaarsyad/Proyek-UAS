@@ -36,7 +36,7 @@ void runge_kutta(double x0, double y0, double alpha, double beta, double delta, 
     }
 }
 
-// Simpan hasil simulasi ke file dengan nama yang dimasukkan pengguna
+// Simpan hasil simulasi ke file dengan nama yang dimasukkan penggunaa.
 void simpan_hasil(double x0, double y0, double alpha, double beta, double delta, double gamma, double h, int steps) {
     char nama_file[100];
     printf("Masukkan nama file untuk menyimpan hasil (contoh: hasil_simulasi.csv): ");
